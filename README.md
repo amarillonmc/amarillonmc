@@ -1,6 +1,6 @@
 ### Hiya 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarillonmc&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](github-readme-stats-lswdhqo4n-amarillonmc.vercel.app/api?username=amarillonmc&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 讓軟弱的我們懂得殘忍　狠狠面對人生每次寒冷
 
